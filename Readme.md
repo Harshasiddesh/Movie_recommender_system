@@ -9,7 +9,7 @@ This repository contains a **Content-Based Movie Recommender System** and an **A
 - **Audience Score Prediction**: Implements a scikit-learn pipeline (with feature engineering and Random Forest regression) to predict missing audience scores for movies.
 
 ## 🗂 Project Structure
-
+'''
 Movie_Recommendation/
 
 ├── app.py              # Flask application entry point
@@ -26,7 +26,7 @@ Movie_Recommendation/
 │ └── predict_score.py  # Audience score prediction module
 ├── requirements.txt    # Python dependencies
 └── README.md           # This file
-
+'''
 ## 📁 Data Source
 
 - **Kaggle Dataset**: [Clapper: Massive Rotten Tomatoes Movies and Reviews](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews/data)
