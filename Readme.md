@@ -29,8 +29,8 @@ Movie_Recommendation/
 ## 📁 Data Source
 
 - **Kaggle Dataset**: [Clapper: Massive Rotten Tomatoes Movies and Reviews](https://www.kaggle.com/datasets/andrezaza/clapper-massive-rotten-tomatoes-movies-and-reviews/data)
-- **Movie Dataset**: `Data/movie.csv` (~14M rows, 16 columns per movie)
-- **Review Dataset**: `Data/credits.csv` (~1.4M rows, 11 columns per review)
+- **Movie Dataset**: `Data/movie.csv` (~1.4M rows, 16 columns per movie)
+- **Review Dataset**: `Data/credits.csv` (~14M rows, 11 columns per review)
 - **Final Merged Data**: `Data/Final.csv` (cleaned, feature-engineered for analysis and modeling)
 
 ---
