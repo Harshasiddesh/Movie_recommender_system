@@ -11,6 +11,7 @@ This repository contains a **Content-Based Movie Recommender System** and an **A
 ## 🗂 Project Structure
 
 Movie_Recommendation/
+
 ├── app.py              # Flask application entry point
 ├── templates/          # HTML templates
 │ ├── index.html        # Main landing page
